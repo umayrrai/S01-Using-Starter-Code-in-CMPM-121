@@ -1,4 +1,5 @@
 # MY INSTRUCTIONS
+
 I removed the const comment on line 9 since I decided to go with counter++ which would allow us to increment the button by 1 everytime it was clicked and for Deno to not throw an error.
 
 # CMPM 121 Section Activity starter
