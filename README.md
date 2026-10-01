@@ -1,3 +1,6 @@
+# MY INSTRUCTIONS
+I removed the const comment on line 9 since I decided to go with counter++ which would allow us to increment the button by 1 everytime it was clicked and for Deno to not throw an error.
+
 # CMPM 121 Section Activity starter
 
 This is the Fall 2026 S01 starter for making a small interactive page and learning the path from a local edit to a published site. The course template is public: you do **not** need to join the course GitHub organization. Create a **public** repository under your own GitHub account using the template's **Use this template → Create a new repository** button.
